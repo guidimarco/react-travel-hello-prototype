@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-travel-hello-prototype%20/static/css/main.59dc793c.css",
-    "main.js": "/react-travel-hello-prototype%20/static/js/main.659bd02e.js",
-    "static/js/453.1f89283e.chunk.js": "/react-travel-hello-prototype%20/static/js/453.1f89283e.chunk.js",
-    "index.html": "/react-travel-hello-prototype%20/index.html",
-    "main.59dc793c.css.map": "/react-travel-hello-prototype%20/static/css/main.59dc793c.css.map",
-    "main.659bd02e.js.map": "/react-travel-hello-prototype%20/static/js/main.659bd02e.js.map",
-    "453.1f89283e.chunk.js.map": "/react-travel-hello-prototype%20/static/js/453.1f89283e.chunk.js.map"
+    "main.css": "/react-travel-hello-prototype/static/css/main.59dc793c.css",
+    "main.js": "/react-travel-hello-prototype/static/js/main.79e316d2.js",
+    "static/js/453.1f89283e.chunk.js": "/react-travel-hello-prototype/static/js/453.1f89283e.chunk.js",
+    "index.html": "/react-travel-hello-prototype/index.html",
+    "main.59dc793c.css.map": "/react-travel-hello-prototype/static/css/main.59dc793c.css.map",
+    "main.79e316d2.js.map": "/react-travel-hello-prototype/static/js/main.79e316d2.js.map",
+    "453.1f89283e.chunk.js.map": "/react-travel-hello-prototype/static/js/453.1f89283e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59dc793c.css",
-    "static/js/main.659bd02e.js"
+    "static/js/main.79e316d2.js"
   ]
 }
