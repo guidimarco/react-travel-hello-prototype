@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Vacanza al Mare",
+      "description": "Una splendida vacanza sulla spiaggia.",
+      "initDate": "2024-08-01T00:00:00Z",
+      "endDate": "2024-08-07T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 2,
+      "name": "Weekend in Montagna",
+      "description": "Escursioni e relax in montagna.",
+      "initDate": "2024-09-10T00:00:00Z",
+      "endDate": "2024-09-12T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 3,
+      "name": "Tour delle Città d'Arte",
+      "description": "Visita alle città più belle d'Italia.",
+      "initDate": "2024-10-15T00:00:00Z",
+      "endDate": "2024-10-22T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 4,
+      "name": "Vacanza in Campagna",
+      "description": "Rilassanti passeggiate tra le colline.",
+      "initDate": "2024-07-05T00:00:00Z",
+      "endDate": "2024-07-12T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 5,
+      "name": "Safari in Africa",
+      "description": "Avventura tra gli animali selvatici.",
+      "initDate": "2024-11-01T00:00:00Z",
+      "endDate": "2024-11-14T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 6,
+      "name": "Viaggio in Giappone",
+      "description": "Esplorazione della cultura giapponese.",
+      "initDate": "2024-04-01T00:00:00Z",
+      "endDate": "2024-04-15T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 7,
+      "name": "Vacanza alle Hawaii",
+      "description": "Spiagge e vulcani nelle isole Hawaii.",
+      "initDate": "2024-06-20T00:00:00Z",
+      "endDate": "2024-07-04T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 8,
+      "name": "Crociera nel Mediterraneo",
+      "description": "Crociera tra le isole del Mediterraneo.",
+      "initDate": "2024-08-15T00:00:00Z",
+      "endDate": "2024-08-25T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 9,
+      "name": "Viaggio in Australia",
+      "description": "Scoperta dei paesaggi australiani.",
+      "initDate": "2024-03-10T00:00:00Z",
+      "endDate": "2024-03-24T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 10,
+      "name": "Tour della Francia",
+      "description": "Viaggio tra le città e i vigneti francesi.",
+      "initDate": "2024-05-05T00:00:00Z",
+      "endDate": "2024-05-20T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 11,
+      "name": "Vacanza in Grecia",
+      "description": "Esplorazione delle isole greche.",
+      "initDate": "2024-07-01T00:00:00Z",
+      "endDate": "2024-07-10T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 12,
+      "name": "Viaggio in Islanda",
+      "description": "Avventura tra i ghiacciai e i geyser.",
+      "initDate": "2024-12-01T00:00:00Z",
+      "endDate": "2024-12-10T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 13,
+      "name": "Vacanza a New York",
+      "description": "Scoperta della Grande Mela.",
+      "initDate": "2024-09-01T00:00:00Z",
+      "endDate": "2024-09-07T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 14,
+      "name": "Tour della Spagna",
+      "description": "Viaggio tra le città e le coste spagnole.",
+      "initDate": "2024-06-10T00:00:00Z",
+      "endDate": "2024-06-25T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 15,
+      "name": "Viaggio in Brasile",
+      "description": "Esplorazione delle città e delle foreste brasiliane.",
+      "initDate": "2024-02-10T00:00:00Z",
+      "endDate": "2024-02-25T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 16,
+      "name": "Safari in Kenya",
+      "description": "Scoperta della fauna africana.",
+      "initDate": "2024-11-20T00:00:00Z",
+      "endDate": "2024-12-04T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 17,
+      "name": "Viaggio in Cina",
+      "description": "Esplorazione della Grande Muraglia e delle città cinesi.",
+      "initDate": "2024-04-20T00:00:00Z",
+      "endDate": "2024-05-05T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 18,
+      "name": "Vacanza in Thailandia",
+      "description": "Spiagge e cultura thailandese.",
+      "initDate": "2024-08-05T00:00:00Z",
+      "endDate": "2024-08-20T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 19,
+      "name": "Viaggio in Canada",
+      "description": "Scoperta delle città e dei parchi naturali canadesi.",
+      "initDate": "2024-07-15T00:00:00Z",
+      "endDate": "2024-07-30T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    },
+    {
+      "id": 20,
+      "name": "Tour dell'India",
+      "description": "Esplorazione delle città e dei templi indiani.",
+      "initDate": "2024-10-01T00:00:00Z",
+      "endDate": "2024-10-15T00:00:00Z",
+      "condividi": true,
+      "condividiCon": "Tutti"
+    }
+]
+  
