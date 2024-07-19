@@ -1,0 +1,217 @@
+[
+    {
+        "id": 1,
+        "date": "2022-07-20",
+        "description": "In Bangkok, I visited the Grand Palace. It exceeded all my expectations.",
+        "rating": 1,
+        "cost": 3,
+        "tags": [
+            "trip"
+        ]
+    },
+    {
+        "id": 2,
+        "date": "2021-12-26",
+        "description": "In Dubai, I enjoyed the view from the Burj Khalifa. It exceeded all my expectations.",
+        "rating": 5,
+        "cost": 1,
+        "tags": [
+            "city"
+        ]
+    },
+    {
+        "id": 3,
+        "date": "2023-01-31",
+        "description": "In Delhi, I visited the Red Fort. The atmosphere was amazing.",
+        "rating": 4,
+        "cost": 3,
+        "tags": [
+            "shopping",
+            "restaurant",
+            "trip"
+        ]
+    },
+    {
+        "id": 4,
+        "date": "2023-11-26",
+        "description": "In Moscow, I visited the Kremlin. I had the best time ever.",
+        "rating": 2,
+        "cost": 1,
+        "tags": [
+            "lake"
+        ]
+    },
+    {
+        "id": 5,
+        "date": null,
+        "description": "In Rome, I explored the Colosseum. A truly memorable trip.",
+        "rating": 4,
+        "cost": 2,
+        "tags": [
+            "adventure"
+        ]
+    },
+    {
+        "id": 6,
+        "date": "2023-07-04",
+        "description": "In Istanbul, I visited the Hagia Sophia. The atmosphere was amazing.",
+        "rating": 2,
+        "cost": 1,
+        "tags": [
+            "museum",
+            "nightlife"
+        ]
+    },
+    {
+        "id": 7,
+        "date": null,
+        "description": "In Los Angeles, I walked along the Hollywood Walk of Fame. It exceeded all my expectations.",
+        "rating": 4,
+        "cost": 1,
+        "tags": [
+            "food",
+            "trip"
+        ]
+    },
+    {
+        "id": 8,
+        "date": "2022-01-23",
+        "description": "In Paris, I visited the Eiffel Tower. It exceeded all my expectations.",
+        "rating": 5,
+        "cost": 2,
+        "tags": [
+            "adventure"
+        ]
+    },
+    {
+        "id": 9,
+        "date": null,
+        "description": "In Cairo, I marveled at the Pyramids of Giza. A truly memorable trip.",
+        "rating": 1,
+        "cost": 2,
+        "tags": [
+            "cultural"
+        ]
+    },
+    {
+        "id": 10,
+        "date": "2023-06-19",
+        "description": "In Venice, I took a gondola ride on the Grand Canal. I would love to go back someday.",
+        "rating": 2,
+        "cost": 3,
+        "tags": [
+            "lake",
+            "museum"
+        ]
+    },
+    {
+        "id": 11,
+        "date": "2023-12-21",
+        "description": "In San Francisco, I walked across the Golden Gate Bridge. The atmosphere was amazing.",
+        "rating": 4,
+        "cost": 1,
+        "tags": [
+            "trip",
+            "nightlife"
+        ]
+    },
+    {
+        "id": 12,
+        "date": null,
+        "description": "In Sydney, I watched a performance at the Sydney Opera House. It was an unforgettable experience.",
+        "rating": 1,
+        "cost": 3,
+        "tags": [
+            "shopping",
+            "lake"
+        ]
+    },
+    {
+        "id": 13,
+        "date": "2022-08-16",
+        "description": "In Rio de Janeiro, I relaxed on Copacabana Beach. The atmosphere was amazing.",
+        "rating": 2,
+        "cost": 2,
+        "tags": [
+            "food",
+            "nightlife"
+        ]
+    },
+    {
+        "id": 14,
+        "date": "2021-11-05",
+        "description": "In Rio de Janeiro, I relaxed on Copacabana Beach. It was an unforgettable experience.",
+        "rating": 3,
+        "cost": 2,
+        "tags": [
+            "mountain",
+            "museum"
+        ]
+    },
+    {
+        "id": 15,
+        "date": null,
+        "description": "In Dubai, I enjoyed the view from the Burj Khalifa. It was an unforgettable experience.",
+        "rating": 3,
+        "cost": 1,
+        "tags": [
+            "food"
+        ]
+    },
+    {
+        "id": 16,
+        "date": "2022-01-19",
+        "description": "In Athens, I explored the Parthenon. I would love to go back someday.",
+        "rating": 0,
+        "cost": 2,
+        "tags": [
+            "nightlife"
+        ]
+    },
+    {
+        "id": 17,
+        "date": null,
+        "description": "In London, I saw the Changing of the Guard at Buckingham Palace. A truly memorable trip.",
+        "rating": 2,
+        "cost": 1,
+        "tags": [
+            "museum",
+            "relax",
+            "nightlife"
+        ]
+    },
+    {
+        "id": 18,
+        "date": null,
+        "description": "In Delhi, I visited the Red Fort. A truly memorable trip.",
+        "rating": 3,
+        "cost": 2,
+        "tags": [
+            "restaurant",
+            "nightlife",
+            "nightlife"
+        ]
+    },
+    {
+        "id": 19,
+        "date": "2023-06-09",
+        "description": "In Athens, I explored the Parthenon. I had the best time ever.",
+        "rating": 3,
+        "cost": 2,
+        "tags": [
+            "nightlife"
+        ]
+    },
+    {
+        "id": 20,
+        "date": "2021-12-30",
+        "description": "In Beijing, I visited the Great Wall of China. I would love to go back someday.",
+        "rating": 0,
+        "cost": 3,
+        "tags": [
+            "beach",
+            "city",
+            "shopping"
+        ]
+    }
+]
